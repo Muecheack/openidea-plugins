@@ -1,0 +1,6 @@
+repository = "https://github.com/Muecheack/openidea-catppuccin" 
+
+[[versions]]
+version = "1.0.0"
+package = "https://github.com/Muecheack/openidea-catppuccin-plugin/releases/download/v1.0.0/muecheack.catppuccin-1.0.0.oiplugin"
+sha256 = "98db1f12910e43041a2514369c97ee2eb53ccaefa8dae0ead74d6b4637da2e27"
